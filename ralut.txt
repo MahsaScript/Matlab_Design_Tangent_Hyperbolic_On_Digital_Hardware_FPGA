@@ -1,0 +1,1 @@
+hyperbolic tangentAs mentioned earlier, the RALUT module contains the difference between the linear approximation y = x, and Tanh for the range [0, 1], and the difference between the linear approximation of y = 1 and Tanh for the range [1, 8].

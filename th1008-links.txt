@@ -1,0 +1,5 @@
+https://de.mathworks.com/help/fixedpoint/ug/fixed-point-function-approximation.html
+
+https://de.mathworks.com/help/deeplearning/ref/trainbr.html
+
+https://www.google.com/search?client=firefox-b-d&q=matlab+function+approximation
